@@ -1,0 +1,3 @@
+﻿//FilterAndSort();
+//JoinCategoriesAndProducts();
+GroupJoinCategoriesAndProducts();
